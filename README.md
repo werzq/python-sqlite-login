@@ -11,7 +11,7 @@
 <h3>How to setup</h3>
 <p><b>Step 1:</b> Clone/download this repo</p>
 
-    https://github.com/iamstrawberry/python-sqlite-login
+    git clone https://github.com/iamstrawberry/python-sqlite-login
     
 <p><b>Step 2:</b> Install requirements</p>
 <p>change directory to  the newly created "python-sqlite-login" folder<br>
