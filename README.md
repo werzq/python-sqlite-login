@@ -1,5 +1,5 @@
 <h1 align='center'>python login using sqlite</h1>
-<h2>This is a sample python program that stores user data in a db file</h3>
+<h2>This is a simple python program that stores user data in a db file</h3>
 <p>the structure of the original db file is:</p>
 <p><b>data.db</b> > accounts</p>
 
